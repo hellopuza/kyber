@@ -1,5 +1,5 @@
 import random
-from utils import *
+from kyber.utils import *
 
 class PolynomialRing:
     """
